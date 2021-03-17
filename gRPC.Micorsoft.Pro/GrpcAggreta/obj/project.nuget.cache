@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "c/Z0+/szmv9VbM+fpSS4UUNyjlx5mZAdYveeot3wWCD8OVyq4ZCjJIz8LKHXFjcnGxqo3DC8biQ2dZXRPQ5onA==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\gRPCPro\\gRPC.Micorsoft.Pro\\GrpcAggreta\\GrpcAggreta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\grpc.core.api\\2.27.0\\grpc.core.api.2.27.0.nupkg.sha512",
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\grpc.net.client\\2.27.0\\grpc.net.client.2.27.0.nupkg.sha512",
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\grpc.net.common\\2.27.0\\grpc.net.common.2.27.0.nupkg.sha512",
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\grpc.tools\\2.27.0\\grpc.tools.2.27.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "C:\\Users\\zeng.tao\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
